@@ -165,7 +165,7 @@ $('.displayed').removeClass("displayed");
 $('#logs').addClass("displayed");
 $('#logs').removeClass("hidden");
 });
-$("#do,#do2").click(function() {
+$("#do,.do2").click(function() {
 $('.selected').removeClass("selected");
 $('#do').addClass("selected");
 $('.displayed').addClass("hidden");
