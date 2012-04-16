@@ -1,6 +1,10 @@
 # Introduction
 
-The code source of the widget is available in the widget.js file.
+The code source of the widget is available in the widget.js file. The widget in written in JavaScript.
+
+# Demo
+
+A live demo is available at http://gplusapi.appspot.com/
 
 # MIT Licence
 
