@@ -1,6 +1,6 @@
 # Introduction
 
-The code source of the widget is available in the widget.js file. The widget is written in JavaScript.
+The source code of the widget is available in the widget.js file. The widget is written in JavaScript.
 
 ## Demo
 
