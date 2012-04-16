@@ -6,7 +6,7 @@ The code source of the widget is available in the widget.js file. The widget in 
 
 A live demo is available at http://gplusapi.appspot.com/
 
-# MIT Licence
+# MIT License
 
 Copyright (c) 2012 Florian Bersier
 
