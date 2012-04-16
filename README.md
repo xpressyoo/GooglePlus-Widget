@@ -6,6 +6,13 @@ The code source of the widget is available in the widget.js file. The widget is 
 
 A live demo is available at http://gplusapi.appspot.com/
 
+# Logo
+
+The widget's logo has been designed by [Corbin Marc Hesse](http://whatsacorbin.com/).
+
+![alt text](http://gplusapi.appspot.com/logo.png "Download it")
+
+
 # MIT License
 
 Copyright (c) 2012 Florian Bersier
@@ -21,3 +28,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY 
 CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH 
 THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+# Contact
+
+Global: [Google+ Page](https://plus.google.com/111072607476419622963/posts) | Developer: [Florian Bersier](http://www.florianbersier.com)
