@@ -151,7 +151,7 @@ h1,h3 {
 }
 
 h1 a {
-	background: url('/hotlink-ok/logo.png') no-repeat bottom left;
+	background: url('hotlink-ok/logo.png') no-repeat bottom left;
 	padding: 0 0 0 60px;
 	overflow: visible;
 	color: inherit;
@@ -407,7 +407,7 @@ border:1px solid #3079ed;color:#fff;-webkit-border-radius:2px;-moz-border-radius
 }
 
 #pidp span {
-	background: url('/hotlink-ok/tip.png') #f1f1f1 no-repeat top center;
+	background: url('hotlink-ok/tip.png') #f1f1f1 no-repeat top center;
 	padding-top: 80px;
 }
 
